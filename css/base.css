@@ -483,6 +483,10 @@ textarea {
 	width: 100%;
 }
 
+.show-mobile {
+	display: none;
+}
+
 /**
  * small screens - (_grid.scss)
  * --------------------------------------------------------------- 
@@ -543,6 +547,14 @@ textarea {
 
 	.tab-full {
 		width: 100%;
+	}
+
+	.hide-mobile{
+		display: none;
+	}
+
+	.show-mobile{
+		display: block;
 	}
 
 }
