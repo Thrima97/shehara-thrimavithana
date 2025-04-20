@@ -2,7 +2,7 @@
 
 ## Software Engineer
 
-I am an Associate Software Engineer with over 2 years of experience specializing in PHP, Alpine.js, and Laravel. I am known for my quick learning and effective problem-solving skills in fast-paced environments. I am actively seeking opportunities in dynamic settings to enhance my technical skills and contribute to innovative projects.
+I am an Software Engineer with over 3 years of experience specializing in PHP, Alpine.js, and Laravel. I am known for my quick learning and effective problem-solving skills in fast-paced environments. I am actively seeking opportunities in dynamic settings to enhance my technical skills and contribute to innovative projects.
 
 ### Contact Information
 
@@ -22,8 +22,8 @@ I am an Associate Software Engineer with over 2 years of experience specializing
 - Expert in HubSpot CRM card implementations, CMS API, and integrating third-party APIs.
 
 #### Sanmark Solutions PVT LTD
-**Associate Software Engineer**  
-*September 2022 - April 2023*  
+**Software Engineer**  
+*September 2022 - Present*  
 - Developed software enhancing lifecycle management and technical skills.  
 - Applied agile management using Jira for optimizing task tracking and sprint planning.
 
