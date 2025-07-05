@@ -14,16 +14,23 @@ I am an Software Engineer with over 3 years of experience specializing in PHP, A
 
 ### Professional Experience
 
+#### Elsy Solutions, United States
+**Software Engineer**  
+*May 2025 - Present*  
+- Integrated OpenAI model fine-tuning via custom Laravel middleware.  
+- Developed robust app integrations within Laravel ecosystems.  
+- Experienced in leveraging AWS services and Docker for scalable Laravel deployments.
+
 #### Engaging.io, Australia (Through Sanmark Solutions PVT LTD)
 **Developer**  
-*August 2023 - Present*  
+*August 2023 - June 2025*  
 - Proficient in Laravel development with Livewire, Alpine.js, Docker, and MySQL.  
 - Experienced in migrating data across platforms like AWS and Shopify.  
 - Expert in HubSpot CRM card implementations, CMS API, and integrating third-party APIs.
 
 #### Sanmark Solutions PVT LTD
 **Software Engineer**  
-*September 2022 - Present*  
+*September 2022 - June 2025*  
 - Developed software enhancing lifecycle management and technical skills.  
 - Applied agile management using Jira for optimizing task tracking and sprint planning.
 
