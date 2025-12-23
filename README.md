@@ -9,7 +9,7 @@ I am an Software Engineer with over 3 years of experience specializing in PHP, A
 - **Email:** [thrima.work@gmail.com](mailto:thrima.work@gmail.com)
 - **LinkedIn:** [linkedin.com/in/thrima](https://linkedin.com/in/thrima)
 - **GitHub:** [github.com/Thrima97](https://github.com/Thrima97)
-- **Portfolio:** [thrima.me](https://thrima.me)
+- **Portfolio:** [SheharaT.com](https://sheharat.com)
 - **Phone:** +94 767199756
 
 ### Professional Experience
